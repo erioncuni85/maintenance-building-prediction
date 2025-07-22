@@ -2,15 +2,15 @@
 
 A comprehensive ZenML-based machine learning pipeline for predicting building maintenance needs in the Komuniteti property management platform.
 
-## 🌍 **Universal Building Management System Support**
+## **Universal Building Management System Support**
 
-> **🎯 Not using Komuniteti?** This pipeline works with **ANY building management system**!  
-> ✅ **Yardi Voyager** • **RealPage** • **AppFolio** • **Buildium** • **MRI Software** • **And more**
+> ** Not using Komuniteti?** This pipeline works with **ANY building management system**!  
+>  **Yardi Voyager** • **RealPage** • **AppFolio** • **Buildium** • **MRI Software** • **And more**
 > 
-> 📖 **[See USAGE_FOR_OTHER_ENTITIES.md](./USAGE_FOR_OTHER_ENTITIES.md)** for complete integration guide  
-> 🏢 **Generic JSON samples included** - start testing immediately with your data structure
+>  **[See USAGE_FOR_OTHER_ENTITIES.md](./USAGE_FOR_OTHER_ENTITIES.md)** for complete integration guide  
+>  **Generic JSON samples included** - start testing immediately with your data structure
 
-## 🏗️ Overview
+## Overview
 
 This project implements a complete MLOps pipeline that:
 - **Predicts** the likelihood of maintenance needs for building assets (elevators, HVAC, boilers, etc.)
@@ -18,14 +18,14 @@ This project implements a complete MLOps pipeline that:
 - **Categorizes** potential risk indicators (low, medium, high)
 - **Integrates** seamlessly with Laravel-based Komuniteti platform
 
-## 🎯 Business Value
+## Business Value
 
 - **Proactive Maintenance**: Prevent unexpected failures through predictive alerts
 - **Cost Optimization**: Reduce unnecessary maintenance and emergency repairs
 - **Risk Management**: Categorize assets by maintenance urgency
 - **Data-Driven Decisions**: Use historical data to optimize maintenance schedules
 
-## 🏛️ Architecture
+## 🏛 Architecture
 
 ### Pipeline Components
 
